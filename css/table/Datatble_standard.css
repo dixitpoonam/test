@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+table{
+   /* border-width: 2px;
+   border-color:black;
+   border-bottom-width: 2px;
+   border-top-width :2px;
+   border-right-width:2px;
+   border-left-width: 2px; */
+   
+   
+   
+   }
+   
+th{
+   text-transform: capitalize;
+   text-align: center;
+   background-color: #ededed;
+   font-size: 12px;
+  font-family: Arial, Helvetica, San-serif;
+  color: black;
+   
+}
+   
+td{
+    /* text-align: center; */
+     font-family: Verdana, arial , san-serif;
+     font-size: 11px;
+    border-top:1px solid #ddd;
+    border-right:1px solid #ddd
+   }
+   
+   section {
+    display: block;
+}
+
+.tdbold{
+	font-weight: bold;
+	
+}
+   
+   

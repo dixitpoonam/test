@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+th {
+  text-align: center;
+  font-family: sans-serif;
+  text-transform: capitalize; }
+  
+ thead th,
+ tfoot th {
+  vertical-align: top;
+ 
+  font-size: 0.900rem;
+  letter-spacing: 0.2px; }
+  
+  
